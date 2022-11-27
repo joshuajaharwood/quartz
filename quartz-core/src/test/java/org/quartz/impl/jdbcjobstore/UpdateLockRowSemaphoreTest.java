@@ -15,7 +15,7 @@
  */
 package org.quartz.impl.jdbcjobstore;
 
-import static org.mockito.Matchers.startsWith;
+import static org.mockito.ArgumentMatchers.startsWith;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
